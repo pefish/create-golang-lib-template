@@ -12,7 +12,7 @@ XXX
 
 ## Document
 
-[Doc](https://godoc.org/github.com/pefish/XXX)
+[doc](https://godoc.org/github.com/pefish/XXX)
 
 ## Security Vulnerabilities
 
