@@ -1,3 +1,3 @@
-module create_golang_lib_template
+module package-name
 
 go 1.20

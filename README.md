@@ -1,8 +1,8 @@
-# XXX
+# _app-name_
 
-[![view examples](https://img.shields.io/badge/learn%20by-examples-0C8EC5.svg?style=for-the-badge&logo=go)](https://github.com/pefish/XXX)
+[![view examples](https://img.shields.io/badge/learn%20by-examples-0C8EC5.svg?style=for-the-badge&logo=go)](https://package-name)
 
-XXX
+_app-name_
 
 ## Quick start
 
@@ -12,7 +12,7 @@ XXX
 
 ## Document
 
-[doc](https://godoc.org/github.com/pefish/XXX)
+[doc](https://godoc.org/package-name)
 
 ## Security Vulnerabilities
 
