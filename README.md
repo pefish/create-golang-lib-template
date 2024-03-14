@@ -1,8 +1,8 @@
-# _app-name_
+# app-name
 
 [![view examples](https://img.shields.io/badge/learn%20by-examples-0C8EC5.svg?style=for-the-badge&logo=go)](https://package-name)
 
-_app-name_
+app-name
 
 ## Quick start
 

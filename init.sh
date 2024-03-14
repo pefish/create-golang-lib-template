@@ -4,4 +4,4 @@ cat go.mod | sed "s@package-name@${PACKAGE_NAME}@g" > temp && rm -rf go.mod && m
 
 cat README.md | sed "s@package-name@${PACKAGE_NAME}@g" > temp && rm -rf README.md && mv temp README.md
 
-cat README.md | sed "s@_app-name_@${APP_NAME}@g" > temp && rm -rf README.md && mv temp README.md
+cat README.md | sed "s@app-name@${APP_NAME}@g" > temp && rm -rf README.md && mv temp README.md
