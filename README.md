@@ -7,7 +7,7 @@ app-name
 ## Quick start
 
 ```go
-
+go get github.com/pefish/app-name
 ```
 
 ## Document
